@@ -8,5 +8,6 @@ just like Console.WriteLine (cw) shortcut this snippet will create one for  Cons
 add the Snipet to your visual studio installtion path 
 example 
 
-<code>
+```
   C:\Users\<username>\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets</code>
+```
