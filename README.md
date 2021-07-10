@@ -11,3 +11,10 @@ example
 ```
   C:\Users\<username>\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets</code>
 ```
+
+also you can import the snippet using visual studio 
+
+```
+  tools > code snippet manager > import > select the file
+  
+```
