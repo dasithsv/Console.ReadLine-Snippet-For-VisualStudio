@@ -2,7 +2,7 @@
 
 just like Console.WriteLine (cw) shortcut this snippet will create one for  Console.ReadLine (cr)
 
-<img src="https://i.imgur.com/ySHFeB9.gif">
+<img src="https://i.imgur.com/wXXCn0F.gif">
 
 
 ## Setup
