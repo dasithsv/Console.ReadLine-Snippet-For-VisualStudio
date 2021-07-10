@@ -1,2 +1,3 @@
 # Console.ReadLine-Snippet-For-VisualStudio
-Console.ReadLine Snippet For VisualStudio (c#) 
+
+just like Console.WriteLine (cw) shortcut this snippet will create one for  Console.ReadLine
