@@ -23,6 +23,6 @@ also you can import the snippet using visual studio
 
 ## Usage
 
-so after importing the snippet you can type `crl` and `tab + tab` and it will complete the sentece as `Console.ReadLine();`
+so after importing the snippet you can type `cr` and `tab + tab` and it will complete the sentece as `Console.ReadLine();`
 
 if there's any issue hmu dasithsv@gmail.com
