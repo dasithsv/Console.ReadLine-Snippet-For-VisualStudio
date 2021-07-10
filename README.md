@@ -5,7 +5,7 @@ just like Console.WriteLine (cw) shortcut this snippet will create one for  Cons
 <img src="https://i.imgur.com/ySHFeB9.gif">
 
 
-## Usage
+## Setup
 
 add the Snipet to your visual studio installtion path 
 example 
@@ -21,6 +21,8 @@ also you can import the snippet using visual studio
 ```
 <img src="https://i.imgur.com/q5EzJDi.png">  
 
-## usage
+## Usage
 
 so after importing the snippet you can type `crl` and `tab + tab` and it will complete the sentece as `Console.ReadLine();`
+
+if there's any issue hmu dasithsv@gmail.com
