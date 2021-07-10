@@ -16,6 +16,5 @@ also you can import the snippet using visual studio
 
 ```
   tools > code snippet manager > import > select the file
-  
 ```
 <img src="https://i.imgur.com/q5EzJDi.png">  
