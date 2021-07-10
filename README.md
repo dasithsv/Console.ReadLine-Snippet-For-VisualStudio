@@ -2,6 +2,8 @@
 
 just like Console.WriteLine (cw) shortcut this snippet will create one for  Console.ReadLine
 
+<img src="https://i.imgur.com/ySHFeB9.gif">
+
 
 ## Usage
 
