@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Console.ReadLine Snippet For VisualStudio
 
-You can use the [editor on GitHub](https://github.com/dasithsv/Console.ReadLine-Snippet-For-VisualStudio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+just like Console.WriteLine (cw) shortcut this snippet will create one for  Console.ReadLine (cr)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://i.imgur.com/wXXCn0F.gif">
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Setup
 
-```markdown
-Syntax highlighted code block
+add the Snipet to your visual studio installtion path 
+example 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+  C:\Users\<username>\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets</code>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+also you can import the snippet using visual studio 
 
-### Jekyll Themes
+```
+  tools > code snippet manager > import > select the file
+```
+<img src="https://i.imgur.com/q5EzJDi.png">  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dasithsv/Console.ReadLine-Snippet-For-VisualStudio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Usage
 
-### Support or Contact
+so after importing the snippet you can type `cr` and `tab + tab` and it will complete the sentece as `Console.ReadLine();`
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+if there's any issue hmu dasithsv@gmail.com
